@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales Team MemberTeam Member access to _92f2a0</name>
+   <tag></tag>
+   <elementGuidId>4da2233a-2aef-49c0-aafb-a58197dc5e47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AppDetailsSec_1_Item_18</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AppDetailsSec_1_Item_18']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d64db690-0929-4586-9e1a-152d955f27cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AppDetailsSec_1_Item_18</value>
+      <webElementGuid>6f7df11a-270e-4842-b694-e5ae74260e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales Team MemberTeam Member access to the Dynamics 365 Sales app module.Default Publisher for ig19/1/2023Unified Interface</value>
+      <webElementGuid>80ea45dd-dd39-47da-a433-a7b3bbb11e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AppDetailsSec_1_Item_18&quot;)</value>
+      <webElementGuid>67828a40-21c1-4ee4-a066-04b0a0de7bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Apps - Dynamics 365/iframe_Learn More_AppLandingPage</value>
+      <webElementGuid>a0181596-3c70-4356-8a1d-34a629047fcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='AppDetailsSec_1_Item_18']</value>
+      <webElementGuid>fc908f11-c3d0-4a9d-93fb-12f5ea3c86bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='AppModuleTileSec_1_Item_18']/div[2]</value>
+      <webElementGuid>81a43b39-23a6-491a-bd4d-181b66714af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unified Interface'])[15]/following::div[4]</value>
+      <webElementGuid>60cb78b8-be2d-447d-9b4a-c93fdb5db009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Publisher for ig1'])[5]/following::div[6]</value>
+      <webElementGuid>c0902f54-bfbc-443a-8440-e18bd8b77e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/a/div[2]</value>
+      <webElementGuid>aab073d6-239a-425f-b234-2045863eaeb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'AppDetailsSec_1_Item_18' and (text() = 'Sales Team MemberTeam Member access to the Dynamics 365 Sales app module.Default Publisher for ig19/1/2023Unified Interface' or . = 'Sales Team MemberTeam Member access to the Dynamics 365 Sales app module.Default Publisher for ig19/1/2023Unified Interface')]</value>
+      <webElementGuid>28cd9d24-0848-404a-80d3-47267d2a34a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

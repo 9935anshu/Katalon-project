@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Opportunities</name>
+   <tag></tag>
+   <elementGuidId>fc1f85dd-285c-4b0f-9b32-a35abc8490bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sitemap-entity-Opportunity > div.pa-a.pa-bl.pa-dv.pa-dw.pa-dq.pa-x.pa-dx.pa-dy.pa-dz.pa-ea.pa-eb.pa-ec.pa-ed.pa-ee.pa-fk.pa-fl.flexbox > div.pa-a.pa-ef.pa-eg.pa-x.pa-f.pa-p.pa-bd.pa-eh.flexbox > div.pa-ct.pa-e.pa-p.pa-es.flexbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sitemap-entity-Opportunity']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1500f0f4-752d-4590-9f89-f35475786612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>690e3661-a703-4d10-b704-bab2be3330ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-ct pa-e pa-p pa-es flexbox</value>
+      <webElementGuid>710ae7e2-ea5e-46c1-9538-dc2c2c78b8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Opportunities</value>
+      <webElementGuid>a86c1ccc-4c91-4a0a-a926-947fb8a0e372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sitemap-entity-Opportunity&quot;)/div[@class=&quot;pa-a pa-bl pa-dv pa-dw pa-dq pa-x pa-dx pa-dy pa-dz pa-ea pa-eb pa-ec pa-ed pa-ee pa-fk pa-fl flexbox&quot;]/div[@class=&quot;pa-a pa-ef pa-eg pa-x pa-f pa-p pa-bd pa-eh flexbox&quot;]/div[@class=&quot;pa-ct pa-e pa-p pa-es flexbox&quot;]</value>
+      <webElementGuid>8022adec-ac49-4952-bd30-02d045d713aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sitemap-entity-Opportunity']/div/div/div[2]</value>
+      <webElementGuid>2f72cad2-71d0-4ee9-9852-b7860ee7a842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leads'])[1]/following::div[4]</value>
+      <webElementGuid>66e99f38-715d-423c-be63-b49c6893193e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Records'])[1]/preceding::div[2]</value>
+      <webElementGuid>e35d6d76-75ab-445c-aaf3-7e7f68dc455c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[2]/div/div/div[2]</value>
+      <webElementGuid>3b3a43ad-f03d-4d72-b8e2-34ab088c65da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Opportunities' or . = 'Opportunities')]</value>
+      <webElementGuid>ca21c434-234c-4dcb-9afe-48fda3122fa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

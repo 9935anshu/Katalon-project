@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales Team Member</name>
+   <tag></tag>
+   <elementGuidId>d49bc456-3d83-4c2a-9ae1-00a3b79a5e48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[title=&quot;Sales Team Member&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AppDetailsSec_1_Item_18']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31c71af6-3776-4e93-a6db-7181c9edaf2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>app-title</value>
+      <webElementGuid>eaa2e899-af17-464c-bf95-c78d09fe6316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sales Team Member</value>
+      <webElementGuid>6f297e85-665a-4fb1-a284-1218f555dc2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales Team Member</value>
+      <webElementGuid>570199a8-1aad-419f-ba50-e86deaf29bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AppDetailsSec_1_Item_18&quot;)/div[1]</value>
+      <webElementGuid>82fbdd89-46ff-4a5a-96f0-8092043ef06b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Apps - Dynamics 365/iframe_Learn More_AppLandingPage</value>
+      <webElementGuid>c831607c-1747-41bb-a7cb-0d74b44fa639</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AppDetailsSec_1_Item_18']/div</value>
+      <webElementGuid>19af60b5-56ec-492c-830d-835941e5ef0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unified Interface'])[15]/following::div[5]</value>
+      <webElementGuid>1112f667-0fd0-4f14-b7ad-8ab936328410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Publisher for ig1'])[5]/following::div[7]</value>
+      <webElementGuid>fb11def0-8afa-43f1-ae6c-342b2fa08bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team Member access to the Dynamics 365 Sales app module.'])[1]/preceding::div[1]</value>
+      <webElementGuid>940fa107-d6d1-4773-b167-124d3aab43bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Publisher for ig1'])[6]/preceding::div[2]</value>
+      <webElementGuid>672f61fd-dd32-4ffa-8ebe-c498a6014608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sales Team Member']/parent::*</value>
+      <webElementGuid>0df74acc-3e6d-4960-b47e-9b24a6eeb808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/a/div[2]/div</value>
+      <webElementGuid>92f7a38a-400f-4813-ab4b-462cc184827b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Sales Team Member' and (text() = 'Sales Team Member' or . = 'Sales Team Member')]</value>
+      <webElementGuid>e5c5f269-1286-436f-904a-bf4c570ffcf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

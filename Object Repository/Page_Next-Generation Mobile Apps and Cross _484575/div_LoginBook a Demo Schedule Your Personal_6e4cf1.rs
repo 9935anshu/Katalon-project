@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginBook a Demo Schedule Your Personal_6e4cf1</name>
+   <tag></tag>
+   <elementGuidId>e33af428-2612-474f-8926-8c2e24c62e84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/nav/div/div/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b6263f3-f8ef-4525-af71-fe55fee4db70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-5/12 md:text-right desktop:text-left desktop:w-full desktop:px-15 relative flex desktop:block items-center justify-end</value>
+      <webElementGuid>24801d82-a944-40e0-b79b-0c4cdbbc4c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginBook a Demo Schedule Your Personal Demo ×Online Browser TestingSelenium TestingCypress TestingHyperExecuteOn-premise Selenium GridNative App TestingReal Device CloudVisual Regression CloudTAS - Test at ScaleAppiumEnterpriseOtherSCHEDULE DEMOGet Started Free</value>
+      <webElementGuid>fd755a12-8811-473f-ac1d-61fb3c5f231c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;container&quot;]/div[@class=&quot;px-2 desktop:py-15&quot;]/div[@class=&quot;flex -mx-2 items-center desktop:block&quot;]/div[@class=&quot;header__menu px-2 desktop:w-full&quot;]/div[@class=&quot;desktop:mt-10 desktop:text-left desktop:hidden&quot;]/div[@class=&quot;flex items-center desktop:block&quot;]/div[@class=&quot;w-5/12 md:text-right desktop:text-left desktop:w-full desktop:px-15 relative flex desktop:block items-center justify-end&quot;]</value>
+      <webElementGuid>ebbc6af5-b8d4-4e5d-9cd9-6b7be88519e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/nav/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>582cff50-ac7c-4a08-ab9f-e8957f8ae136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::div[1]</value>
+      <webElementGuid>596b7f24-6a54-4ba0-b277-5cc130f38a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Testing Advisor'])[1]/following::div[1]</value>
+      <webElementGuid>49bff5fa-7e50-44b2-a086-8773ee686b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>ad3c5324-b3c4-4889-b257-51cf4ce2e2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginBook a Demo Schedule Your Personal Demo ×Online Browser TestingSelenium TestingCypress TestingHyperExecuteOn-premise Selenium GridNative App TestingReal Device CloudVisual Regression CloudTAS - Test at ScaleAppiumEnterpriseOtherSCHEDULE DEMOGet Started Free' or . = 'LoginBook a Demo Schedule Your Personal Demo ×Online Browser TestingSelenium TestingCypress TestingHyperExecuteOn-premise Selenium GridNative App TestingReal Device CloudVisual Regression CloudTAS - Test at ScaleAppiumEnterpriseOtherSCHEDULE DEMOGet Started Free')]</value>
+      <webElementGuid>90624b80-3d7a-4f4a-bb71-a72164db92f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

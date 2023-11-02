@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_1. My Tasks  Active Projects - Dynamics 365/span_Home",
+      "brokenLocator": "//li[@id\u003d\u0027sitemap-entity-Home_8E2112DC-AD90-40F5-BEBE-0A8D80785D75\u0027]/div/div/div[2]/span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sign out\u0027])[1]/following::span[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231102_124428/sandbox/20231102_124429/Object Repository/Page_1. My Tasks  Active Projects - Dynamics 365/span_Home_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_1. My Tasks  Active Projects - Dynamics 365/div_Opportunities",
+      "brokenLocator": "//li[@id\u003d\u0027sitemap-entity-Opportunity\u0027]/div/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Leads\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231102_124428/sandbox/20231102_124429/Object Repository/Page_1. My Tasks  Active Projects - Dynamics 365/div_Opportunities_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign in to your account/input_Sign in_loginfmt",
+      "brokenLocator": "//input[@id\u003d\u0027i0116\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}
