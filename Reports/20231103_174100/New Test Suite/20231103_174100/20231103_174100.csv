@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 118.0.0.0,,,2023-11-03 17:41:05,2023-11-03 17:42:42,1m - 37.057s,PASSED
+,,,,,,,
+Test Cases/Visual test cases/Check feed,Chrome 118.0.0.0,,,2023-11-03 17:41:06,2023-11-03 17:41:25,18.864s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-03 17:41:06,2023-11-03 17:41:10,3.475s,PASSED
+"navigateToUrl(""https://demo.realworld.io/#/"")",Chrome 118.0.0.0,,,2023-11-03 17:41:10,2023-11-03 17:41:15,5.249s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Conduit/a_Global Feed""))",Chrome 118.0.0.0,,,2023-11-03 17:41:15,2023-11-03 17:41:20,5.042s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Conduit/ul_Your Feed                               _ddf8ea""))",Chrome 118.0.0.0,,,2023-11-03 17:41:20,2023-11-03 17:41:23,2.879s,PASSED
+"takeScreenshotAsCheckpoint(""feed-toggle"")",Chrome 118.0.0.0,,,2023-11-03 17:41:23,2023-11-03 17:41:24,0.894s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-03 17:41:24,2023-11-03 17:41:25,0.735s,PASSED
+,,,,,,,
+Test Cases/Visual test cases/Shooping sites,Chrome 118.0.0.0,,,2023-11-03 17:41:25,2023-11-03 17:41:56,31.033s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-03 17:41:25,2023-11-03 17:41:27,1.607s,PASSED
+"navigateToUrl(""https://shacara.com/"")",Chrome 118.0.0.0,,,2023-11-03 17:41:27,2023-11-03 17:41:50,23.130s,PASSED
+"click(findTestObject(""Object Repository/Page_Shacara, Fashion Social Network/h3_Shacara""))",Chrome 118.0.0.0,,,2023-11-03 17:41:50,2023-11-03 17:41:52,2.140s,PASSED
+"takeScreenshotAsCheckpoint(""Shacara"")",Chrome 118.0.0.0,,,2023-11-03 17:41:52,2023-11-03 17:41:56,3.734s,PASSED
+,,,,,,,
+Test Cases/Visual test cases/Testing web,Chrome 118.0.0.0,,,2023-11-03 17:41:56,2023-11-03 17:42:18,22.452s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-03 17:41:56,2023-11-03 17:41:58,2.194s,PASSED
+"navigateToUrl(""https://demo.realworld.io/#/"")",Chrome 118.0.0.0,,,2023-11-03 17:41:58,2023-11-03 17:42:14,15.172s,PASSED
+"takeScreenshotAsCheckpoint(""banner"")",Chrome 118.0.0.0,,,2023-11-03 17:42:14,2023-11-03 17:42:17,3.347s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Conduit/h1_conduit""))",Chrome 118.0.0.0,,,2023-11-03 17:42:17,2023-11-03 17:42:17,0.535s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-03 17:42:17,2023-11-03 17:42:18,0.726s,PASSED
+,,,,,,,
+Test Cases/Visual test cases/visual test case 1,Chrome 118.0.0.0,,,2023-11-03 17:42:18,2023-11-03 17:42:34,15.339s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-03 17:42:19,2023-11-03 17:42:20,1.330s,PASSED
+"navigateToUrl(""https://webflow.com/"")",Chrome 118.0.0.0,,,2023-11-03 17:42:20,2023-11-03 17:42:31,10.711s,PASSED
+"takeScreenshotAsCheckpoint(""main"")",Chrome 118.0.0.0,,,2023-11-03 17:42:31,2023-11-03 17:42:33,2.090s,PASSED
+"click(findTestObject(""Object Repository/Page_Webflow Create a custom website  Visua_cc4ae5/body_-webkit-font-smoothing antialiased-moz_a10992""))",Chrome 118.0.0.0,,,2023-11-03 17:42:33,2023-11-03 17:42:34,0.736s,PASSED
+,,,,,,,
+Test Cases/Visual test cases/Visual test case2,Chrome 118.0.0.0,,,2023-11-03 17:42:34,2023-11-03 17:42:42,8.847s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-03 17:42:34,2023-11-03 17:42:36,2.138s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 118.0.0.0,,,2023-11-03 17:42:36,2023-11-03 17:42:38,1.778s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Update location""))",Chrome 118.0.0.0,,,2023-11-03 17:42:38,2023-11-03 17:42:39,1.047s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/header_Choose your locationChoose your location""))",Chrome 118.0.0.0,,,2023-11-03 17:42:39,2023-11-03 17:42:41,1.287s,PASSED
+"takeScreenshotAsCheckpoint(""GLUXAddressBlook"")",Chrome 118.0.0.0,,,2023-11-03 17:42:41,2023-11-03 17:42:42,1.083s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-03 17:42:42,2023-11-03 17:42:42,0.791s,PASSED
